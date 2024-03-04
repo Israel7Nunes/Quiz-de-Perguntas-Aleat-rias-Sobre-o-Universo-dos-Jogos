@@ -1,0 +1,36 @@
+body{ 
+    background-image: url(imgs/gaming-2215601_1920.jpg);
+    background-size: cover;
+}
+
+h1{
+    color: #5a0b0b;
+    text-shadow: 3px 3px 8px #ff966d;
+}
+
+#pergunta {
+    color: #0a8024;
+    font-size: 2.5em;
+}
+
+footer{
+    display: flex;
+    position: absolute;
+    bottom: 0px;
+    background-color: #383838;
+    margin-left: -0.6%;
+    padding-right: 63.35%;
+}
+
+button{
+    background-color: #585858;
+    color: rgb(255, 251, 240);
+}
+
+.bonus{
+    background-color: #585858;
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 40%;
+    color: rgb(255, 255, 255);
+}
